@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Insignia_Delta3.mk
+    $(LOCAL_DIR)/omni_Insignia_Delta3.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Insignia_Delta3-user \
-    twrp_Insignia_Delta3-userdebug \
-    twrp_Insignia_Delta3-eng
+    omni_Insignia_Delta3-user \
+    omni_Insignia_Delta3-userdebug \
+    omni_Insignia_Delta3-eng
